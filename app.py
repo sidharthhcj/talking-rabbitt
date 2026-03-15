@@ -13,7 +13,7 @@ from groq import Groq
 # CONFIG — Only the developer touches this
 # ─────────────────────────────────────────
 
-GROQ_API_KEY = "your-groq-api-key-here"   # 🔑 Paste your Groq API key here
+GROQ_API_KEY = "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"   # 🔑 Paste your Groq API key here
 GROQ_MODEL   = "llama3-70b-8192"           # Free & powerful model on Groq
 
 # ─────────────────────────────────────────
