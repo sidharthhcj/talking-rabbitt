@@ -14,7 +14,7 @@ from groq import Groq
 # ─────────────────────────────────────────
 
 GROQ_API_KEY = "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"   # 🔑 Paste your Groq API key here
-GROQ_MODEL   = "llama3-70b-8192"           # Free & powerful model on Groq
+GROQ_MODEL   = "llama-3.3-70b-versatile"           # Free & powerful model on Groq
 
 # ─────────────────────────────────────────
 # Page Configuration
